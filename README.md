@@ -1,7 +1,13 @@
-Hello, and welcome to our Final Project repository! My teammate, William Kilday, and I worked on a hypothetical scenario posed by Steam, where we addressed the following questions:
+Hello, 
+
+and welcome to our Final Project repository! My teammate, William Kilday, and I worked on a hypothetical scenario posed by Steam, where we addressed the following questions:
+
 	1.	Is it possible to analyze customers’ emotions toward the games developed by the top five developers?
+ 
 	2.	How feasible is it to predict whether a customer is likely to purchase a game, and what factors drive those decisions?
+ 
 	3.	Are there alternative methods for collecting data on genres and categories?
+ 
 	4.	What methods can be explored to group reviews based on common themes to better understand user feedback and preferences?
 
 To answer the first question, we provided a sentiment score analysis based on the top five developers. 
